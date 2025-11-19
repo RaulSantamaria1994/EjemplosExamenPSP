@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b2729b6-677c-4303-8e65-9afb55d0d30b" name="Changes" comment="Ejercicio2 hecho">
-      <change afterPath="$PROJECT_DIR$/Ejercicio 3/Ejercicio3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio 4/Ejercicio4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio 5/Ejercicio5.py" afterDir="false" />
+    <list default="true" id="5b2729b6-677c-4303-8e65-9afb55d0d30b" name="Changes" comment="Ejercicio5 hecho">
+      <change afterPath="$PROJECT_DIR$/Ejercicio 6/Ejercicio6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio 7/Ejercicio7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio 8/Ejercicio8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,9 @@
     "Python.Ejercicio3.executor": "Run",
     "Python.Ejercicio4.executor": "Run",
     "Python.Ejercicio5.executor": "Run",
+    "Python.Ejercicio6.executor": "Run",
+    "Python.Ejercicio7.executor": "Run",
+    "Python.Ejercicio8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
@@ -62,6 +65,58 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Python.Ejercicio8">
+    <configuration name="Ejercicio7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EjemplosExamenPSP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejercicio 7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicio 7/Ejercicio7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ejercicio8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EjemplosExamenPSP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejercicio 8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicio 8/Ejercicio8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Ejercicio8" />
+        <item itemvalue="Python.Ejercicio7" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -93,12 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1763492560443</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ejercicio5 hecho">
+      <option name="closed" value="true" />
+      <created>1763545064932</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763545064932</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicio1 hecho" />
     <MESSAGE value="Ejercicio2 hecho" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio2 hecho" />
+    <MESSAGE value="Ejercicio5 hecho" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio5 hecho" />
   </component>
 </project>
